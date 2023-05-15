@@ -1,3 +1,4 @@
+
 #3_exercise
 friends = ["John", "Marta", "James"]
 enemies = ["John", "Johnatan", "Artur"]
